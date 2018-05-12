@@ -1,10 +1,16 @@
 _repo: Visages_50594
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50594-h/images/icover.jpg
 creator:
   author:
     agent_name: Chevassu, Francis
     gutenberg_agent_id: '45992'
     url: http://www.gutenberg.org/2009/agents/45992
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50594#Visages
 gutenberg_bookshelf:
 - FR Littérature
 - FR Nouveautés
